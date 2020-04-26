@@ -1,8 +1,9 @@
 # hltvnextmatch
 Twitter BOT wrote in Python to get next match of certain team onn HLTV.org
 This project was discontinued due to corporyght guidelines of HLTV.org
+Log file wrote in "PT_BR"
 
-@TODO:
+TODO:
 - insert get_team_list() function to get a team list
 
 How to use:
