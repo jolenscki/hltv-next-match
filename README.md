@@ -1,7 +1,7 @@
 # hltvnextmatch
-Twitter BOT wrote in Python to get next match of certain team onn HLTV.org  \n
-This project was discontinued due to corporyght guidelines of HLTV.org \n
-Log file wrote in "PT_BR"
+Twitter BOT wrote in Python to get next match of certain team onn HLTV.org.
+This project was discontinued due to corporyght guidelines of HLTV.org.
+Log file wrote in "PT_BR".
 
 TODO:
 - insert get_team_list() function to get a team list
